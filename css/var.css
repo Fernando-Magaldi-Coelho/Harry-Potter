@@ -1,0 +1,32 @@
+:root {
+    --pretobom: #1D1D2A;
+    --violeta: #6C64B4;
+    --cinzinha: #B6B3C7;
+    --cinzabom: #B6B3C7;
+    --roxoescuro: #433F5F;
+    --roxobebe: #9C94AC;
+    --cinza: #9C9CA0;
+    --cinzabranco: #CDCBCC;
+
+
+    /*PARTE DE COR DO MAL*/
+
+    --verdeescuro: #041918;
+    --verdemuitoescuro: #041918;
+    --pretodiferente: #041918;
+
+    --verdedomal: #041918;
+    --cinzamediano: #ABC2C2;
+    --azulfofo: #ABC2C2;
+    --azulbebe: #087996;
+
+
+    /* PARTE COR BEM */
+
+    --azulforte: #131F2F;
+    --azulclaro: #B6D4EE;
+    --azul: #68A6DE;
+    --azulmedio: #3D79BC;
+    --fundo: #0E2C40;
+
+}

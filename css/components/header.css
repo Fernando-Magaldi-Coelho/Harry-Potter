@@ -1,0 +1,19 @@
+.img-conteiner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  }
+
+  .fundinho {
+    border-radius: 15px;
+    max-width: 100%;
+    margin: 0px 0px 140px;
+    padding: 132px 0px 0;
+    box-shadow: 0 60px 50px var(--verdemuitoescuro);
+    transition: opacity 0.5s ease-in-out; 
+    opacity: 1;
+}
+
+.fundinho.fade-out {
+    opacity: 0; 
+}

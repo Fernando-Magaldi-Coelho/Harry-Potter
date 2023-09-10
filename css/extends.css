@@ -1,0 +1,8 @@
+@import './style.css';
+@import './components/navbar.css';
+@import './components/header.css';
+@import './components/about.css';
+@import './components/footer.css';
+@import './components/main.css';
+@import './var.css';
+@import './components/fundo.css';
